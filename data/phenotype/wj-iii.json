@@ -1,0 +1,15 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Woodcock-Johnson III (WJ-III)",
+    "TermURL": "http://cps.nova.edu/~cpphelp/WJIII-ACH.html",
+    "Citation": "Woodcock, R.W., Mather, N., & Schrank, F.A. (2004). Woodcock-Johnson III. Rolling Meadows, IL: Riverside Publishing."
+  },
+  "WJ_WrdAtt": {
+    "LongName": "WJ-III Word Attack Standard Score",
+    "Description": "Word Attack subtest standard score"
+ },
+  "WJ_PicVoc": {
+    "LongName": "WJ-III Picture Vocabulary Standard Score",
+    "Description": "Picture Vocabulary subtest standard score"
+ }
+}

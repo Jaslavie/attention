@@ -1,0 +1,13 @@
+onset	duration	block	block_type_intended	block_type_performed	response_time_avg	correct_total	errors_total	false-no_go	false-go	NR	comments
+0.0	38.69	1	go	go	0.24930000000000002	18.0	0	n/a	n/a	n/a	n/a
+38.69	38.69	2	no-go	no-go	0.4018	17.0	1	n/a	1.0	n/a	n/a
+77.38	38.69	3	go	go	0.2521	18.0	0	n/a	n/a	n/a	n/a
+116.07	38.69	4	no-go	no-go	0.3777	17.0	1	n/a	1.0	n/a	n/a
+154.76	38.69	5	go	go	0.2861	18.0	0	n/a	n/a	n/a	n/a
+193.45	38.69	6	no-go	no-go	0.37860000000000005	17.0	1	n/a	1.0	n/a	n/a
+232.14	38.69	7	go	go	0.3018	18.0	0	n/a	n/a	n/a	n/a
+270.83	38.69	8	no-go	no-go	0.375	18.0	0	n/a	n/a	n/a	n/a
+309.52	38.69	9	go	go	0.27	18.0	0	n/a	n/a	n/a	n/a
+348.21	38.69	10	no-go	no-go	0.39380000000000004	17.0	1	n/a	1.0	n/a	n/a
+386.9	38.69	11	go	go	0.2335	17.0	1	1.0	n/a	n/a	n/a
+425.59	38.69	12	no-go	no-go	0.416	18.0	0	n/a	n/a	n/a	n/a

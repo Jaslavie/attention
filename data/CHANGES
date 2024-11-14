@@ -1,0 +1,7 @@
+1.2.0 2021-04-20
+  - Additional description added to README file
+  - Addition of "sub-" to participant_id column in participants.tsv as well as phenotype.*.tsv files
+1.1.1 2021-03-23
+  - Adjustment to How to Acknowledge section
+1.1.0 2021-02-19
+  - Title changed for clarity

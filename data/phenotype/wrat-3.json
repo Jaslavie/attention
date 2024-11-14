@@ -1,0 +1,19 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Wide Range Achievement Test Revision 3 (WRAT3)",
+    "TermURL": "http://www.cps.nova.edu/~cpphelp/WRAT-3.html",
+    "Citation": "Wilkinson, G. S. (1993). WRAT-3: Wide range achievement test administration manual. Wilmington, Del: Wide Range, Inc."
+  },
+  "WRAT_Sp": {
+	 "LongName": "WRAT Spelling Standard Score",
+    "Description": "Spelling subtest standard score"
+  },
+  "WRAT_Rd": {
+	"LongName": "WRAT Reading Standard Score",
+    "Description": "Reading subtest standard score"
+  },
+  "WRAT_Mt": {
+	"LongName": "WRAT Arithmitic Standard Score",
+    "Description": "Arithmitic subtest standard score"
+  }
+}

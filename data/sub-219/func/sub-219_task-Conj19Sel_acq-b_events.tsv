@@ -1,0 +1,13 @@
+onset	duration	block	block_type_intended	block_type_performed	response_time_avg	correct_total	errors_total	false-neg	false-pos	NR	comments
+0.0	38.69	1	single	single	0.6455	18.0	0	n/a	n/a	n/a	n/a
+38.69	38.87	2	array	array	0.7587	17.0	1	1.0	n/a	n/a	n/a
+77.56	38.69	3	single	single	0.7306	18.0	0	n/a	n/a	n/a	n/a
+116.25	38.87	4	array	array	0.7781	17.0	1	1.0	n/a	n/a	n/a
+155.12	38.69	5	single	single	0.6375	18.0	0	n/a	n/a	n/a	n/a
+193.81	38.87	6	array	array	0.7988999999999999	16.0	2	2.0	1.0	n/a	n/a
+232.68	38.69	7	single	single	0.5947	18.0	0	n/a	n/a	n/a	n/a
+271.37	38.87	8	array	array	0.7567	17.0	1	1.0	n/a	n/a	n/a
+310.24	38.69	9	single	single	0.7191000000000001	17.0	1	1.0	n/a	n/a	n/a
+348.93	38.87	10	array	array	0.8481000000000001	18.0	0	n/a	n/a	n/a	n/a
+387.8	38.69	11	single	single	0.6287	16.0	2	2.0	n/a	n/a	n/a
+426.49	38.87	12	array	array	0.7587999999999999	18.0	0	n/a	n/a	n/a	n/a
