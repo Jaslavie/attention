@@ -37,7 +37,14 @@ srow_z          : [  0.         0.         1.1      -68.200005]
 intent_name     : np.bytes_(b'')
 magic           : np.bytes_(b'n+1')
 ```
+### Preprocessing
+Before running searchlight analysis, we need to clean and standardize the data. The following steps are taken to accomplish this:
+1. Resample the data to the MNI template
+2. Remove the mean signal from the data
+3. Normalize the data by dividing each voxel by the standard deviation
+4. Remove motion and signal artifacts
 
+All preprocessing steps are implemented in the `preprocessing.ipynb` file.
 ### Visualizing the data
 To display the data, you must extract the data array and affine matrix, then use nilearn's plotting functions.
 
