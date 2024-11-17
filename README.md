@@ -50,3 +50,6 @@ To display the data, you must extract the data array and affine matrix, then use
 
 ### Tools
 AWS used for remote storage of data
+The following OpenNeuro datsets were used:
+- [ds004835](https://openneuro.org/datasets/ds004835/versions/1.0.0): Auditory Attention
+- [ds004836](https://openneuro.org/datasets/ds004836/versions/1.0.0): Visual Attention
