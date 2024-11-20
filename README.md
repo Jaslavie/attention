@@ -49,7 +49,8 @@ All preprocessing steps are implemented in the `preprocessing.ipynb` file.
 To display the data, you must extract the data array and affine matrix, then use nilearn's plotting functions.
 
 ### Searchlight Analysis
-The [nilearn function](https://nilearn.github.io/dev/decoding/searchlight.html) is used to parse through all voxels in the brain and identify 
+The [nilearn function](https://brainiak.org/tutorials/07-searchlight/) is used to parse through all voxels in the brain and identify candidate regions of interest.
+
 ### Tools
 AWS used for remote storage of data
 <br/>
