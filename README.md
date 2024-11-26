@@ -55,5 +55,14 @@ The [nilearn function](https://brainiak.org/tutorials/07-searchlight/) is used t
 AWS used for remote storage of data
 <br/>
 The following OpenNeuro datsets were used:
-- [ds004835](https://openneuro.org/datasets/ds004835/versions/1.0.0): Auditory Attention
-- [ds004836](https://openneuro.org/datasets/ds004836/versions/1.0.0): Visual Attention
+- [ds004836](https://openneuro.org/datasets/ds003500/versions/1.2.0): Visual Attention
+
+
+<!-- 
+
+Steps
+- fit glm (i.e. design the glm) to return the design matrix
+- find m for every predictor r(beta for each predictor) for linear model 
+- contrast on betas  
+
+-->
