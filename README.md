@@ -64,5 +64,7 @@ Steps
 - fit glm (i.e. design the glm) to return the design matrix
 - find m for every predictor r(beta for each predictor) for linear model 
 - contrast on betas  
+- end goal: get a list of voxels and their corresponding betas for each contrast
+- 
 
 -->
