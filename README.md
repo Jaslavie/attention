@@ -1,4 +1,5 @@
-## SearchLight Analysis with fMRI data to measure attention levels in candidate brain regions
+## Measuring brain activity differences between inhibition and selective attention tasks
+Extracting patterns of brain activity between visual attention tasks.
 
 ### Running the application
 1. Install dependencies
@@ -48,8 +49,13 @@ All preprocessing steps are implemented in the `preprocessing.ipynb` file.
 ### Visualizing the data
 To display the data, you must extract the data array and affine matrix, then use nilearn's plotting functions.
 
-### Searchlight Analysis
-The [nilearn function](https://brainiak.org/tutorials/07-searchlight/) is used to parse through all voxels in the brain and identify candidate regions of interest.
+### Analysis Method
+The goal is to isolate attention-specific neural activity. Located in `glm.ipynb`
+- Generalized Linear Model (GLM) extracts patterns of brain activity that represent each task condition.
+- Contrast Analysis compares inhibition and selective attention conditions
+- Design Matrix visualizes relationship between predictors and brain activity
+![Analysis Output](output.png)
+
 
 ### Tools
 AWS used for remote storage of data
